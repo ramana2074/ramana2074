@@ -51,13 +51,6 @@
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
-<!-- Top Languages Summary -->
-<div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramana2074&show_icons=true&theme=highcontrast&hide_border=true&card_width=500" />
-</div>
-
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
 
